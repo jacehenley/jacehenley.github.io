@@ -1,5 +1,7 @@
         
-        h1 {color: rgb(42, 37, 89);}  
+        h1 {
+                font-family: "Times New Roman", Times, serif;
+                color: rgb(42, 37, 89);}  
         
         body {
                 width: 100%;
